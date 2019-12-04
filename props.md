@@ -8,7 +8,9 @@ Props are key value pairs that are passed down from parent to child in React. Th
 
 2.  How do you pass props from a parent to a child?
 
-<Test name="hello" hello={someVariable}/>
+```jsx
+<Test name="hello" hello={someVariable} />
+```
 
 3.  How do you access props from a class based child component?
 
